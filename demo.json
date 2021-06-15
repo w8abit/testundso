@@ -1,29 +1,25 @@
 {
-  "users":[
-    {
-      "name":"w8abit_de",
-      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-      "message":"Test-Nachricht"
-    },
-    {
-      "name":"w8abit_de",
-      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-      "message":"Test-Nachricht"
-    },
-    {
-      "name":"w8abit_de",
-      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-      "message":"Test-Nachricht"
-    },
-    {
-      "name":"w8abit_de",
-      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-      "message":"Test-Nachricht"
-    },
-    {
-      "name":"w8abit_de",
-      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-      "message":"Test-Nachricht"
-    }
-  ]
+  "name":"w8abit_de",
+  "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+  "message":"Test-Nachricht"
+},
+{
+  "name":"w8abit_de",
+  "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+  "message":"Test-Nachricht"
+},
+{
+  "name":"w8abit_de",
+  "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+  "message":"Test-Nachricht"
+},
+{
+  "name":"w8abit_de",
+  "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+  "message":"Test-Nachricht"
+},
+{
+  "name":"w8abit_de",
+  "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+  "message":"Test-Nachricht"
 }
