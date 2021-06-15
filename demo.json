@@ -1,22 +1,29 @@
-  autoGreet = {      
-    "w8abit_de": {
-      "video": "https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-      "text": "Oh Hai...w8abit_de"
-   },
-    "deathtrap89":{
-      "video":"https://cdn.streamelements.com/uploads/b3d98f80-76b2-43db-b674-3b1a342c2780.mp4",
-      "text": "Death 'the Swong Song' Trap" 
-   }, 
-   "robin1741":{
-      "video": "https://cdn.streamelements.com/uploads/797bd84f-ac3d-4aac-9874-ccbd0c7c3fef.mp4",
-      "text": "The Swedish Meatball"
-   }, 
-   "jacky_01":{
-      "video": "https://cdn.streamelements.com/uploads/281810e6-054e-49e2-8e74-7ebc4e21563a.mp4",
-      "text": "Die schöne Jacky"
-   }, 
-   "zanzersclone":{
-      "video": "https://cdn.streamelements.com/uploads/281810e6-054e-49e2-8e74-7ebc4e21563a.mp4",
-      "text": "Der schöne Jacky"
-   }
- };
+{
+  "users":[
+    {
+      "name":"w8abit_de",
+      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+      "message":"Test-Nachricht"
+    },
+    {
+      "name":"w8abit_de",
+      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+      "message":"Test-Nachricht"
+    },
+    {
+      "name":"w8abit_de",
+      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+      "message":"Test-Nachricht"
+    },
+    {
+      "name":"w8abit_de",
+      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+      "message":"Test-Nachricht"
+    },
+    {
+      "name":"w8abit_de",
+      "videoUrl":"https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
+      "message":"Test-Nachricht"
+    }
+  ]
+}
