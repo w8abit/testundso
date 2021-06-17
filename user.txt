@@ -1,17 +1,8 @@
-[
-  {
-    "user": "w8abit_de",
-    "video": "https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-    "text": "Oh Hai... @w8abit_de"
-  },
-  {
-    "user": "s4shtv",
-    "video": "https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-    "text": "Oh Hai... @S4shtv!"
-  },
-  {
-    "user": "randomUser",
-    "video": "https://cdn.streamelements.com/uploads/59115836-5959-46da-a821-cf8bd32dfc68.mp4",
-    "text": "Oh Hai... @randomUser"
-  }
-]
+"w8abit_de":{
+"video":"https://cdn.streamelements.com/uploads/b3d98f80-76b2-43db-b674-3b1a342c2780.mp4",
+"text": "Hey, schön dass du da bist @w8abit_de" 
+},
+"s4shtv":{
+"video":"https://cdn.streamelements.com/uploads/b3d98f80-76b2-43db-b674-3b1a342c2780.mp4",
+"text": "ach, der @s4shtv ist auch hier!" 
+}
