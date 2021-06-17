@@ -1,10 +1,10 @@
 {
-"w8abit_de":{
-"video":"https://cdn.streamelements.com/uploads/b3d98f80-76b2-43db-b674-3b1a342c2780.mp4",
-"text": "Hey, schön dass du da bist @w8abit_de" 
-},
-"s4shtv":{
-"video":"https://cdn.streamelements.com/uploads/b3d98f80-76b2-43db-b674-3b1a342c2780.mp4",
-"text": "ach, der @s4shtv ist auch hier!" 
-}
+  "w8abit_de":{
+    "video":"https://cdn.streamelements.com/uploads/b3d98f80-76b2-43db-b674-3b1a342c2780.mp4",
+    "text": "Hey, schön dass du da bist @w8abit_de" 
+  },
+  "s4shtv":{
+    "video":"https://cdn.streamelements.com/uploads/b3d98f80-76b2-43db-b674-3b1a342c2780.mp4",
+    "text": "ach, der @s4shtv ist auch hier!" 
+  }
 };
